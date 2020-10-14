@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import Simulation from '../views/Simulation.vue'
+import Simulation from '../views/simulation/Simulation.vue'
 
 Vue.use(VueRouter)
 

@@ -58,7 +58,7 @@
 </template>
 
 <script>
-import Simulation from './Simulation.vue';
+import Simulation from './simulation/Simulation.vue';
 
 export default {
   name: "Home",
